@@ -1,4 +1,3 @@
-
 # 👋 Ananya Raula — Fullstack Developer 
 **Java Developer|Web & Cloud Enthusiast**
 
@@ -12,7 +11,7 @@
 - 🛰️ Old Movies and Code = my weekend joy.
 - 💡 Motto: *“Striving to make a difference in the tech world — one line of code at a time.”*
 
-
+---
 ## 🎓 Education
 
  🎓 **B.Tech in Computer Science & Engineering**  
